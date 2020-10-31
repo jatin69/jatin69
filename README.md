@@ -12,5 +12,3 @@
 - I recently started playing [chess](https://www.chess.com/member/jatin_rohilla) as well.
 - I’m currently learning to be mindful. Trying to question some stereotypes.
 - I occasionally write at [jj-writes.now.sh/](https://jj-writes.now.sh/)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin69&label=Profile%20views&color=0e75b6&style=flat" alt="jatin69" /> </p>
