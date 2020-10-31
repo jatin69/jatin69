@@ -7,7 +7,7 @@
 - I’m currently working at **Amazon India**
 - You can reach me at **jatin.mca17.du@gmail.com** or through linkedin [/jatinrohilla](https://www.linkedin.com/in/jatinrohilla/)
 - You can ask me about **Resumes, Interviewing**
-- To know more about my technical experience, visit my portfolio at [https://jatin69.github.io/](https://jatin69.github.io/)
+- To know more about my technical experience, visit [jatin69.github.io](https://jatin69.github.io/)
 - Outside of work, i enjoy listening to conversational podcasts, and taking long walks.
 - I recently started playing [chess](https://www.chess.com/member/jatin_rohilla) as well.
 - I’m currently learning to be mindful. 
