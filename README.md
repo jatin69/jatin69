@@ -7,8 +7,8 @@
 - I’m currently working at **Amazon**, out of Bangalore. WFH for now.
 - You can reach me at **jatin.mca17.du@gmail.com** or through linkedin [@jatinrohilla](https://www.linkedin.com/in/jatinrohilla/)
 - You can ask me about **Resumes, Interviewing** (hopefully, if i'm not out of touch)
-- To know more about my technical experience, visit [jatin69.github.io](https://jatin69.github.io/)
+- To know more about my technical experience, you ccan visit [https://jatin69.github.io](https://jatin69.github.io/)
 - Outside of work, i enjoy listening to conversational podcasts, and taking long walks.
 - I recently started playing [chess](https://www.chess.com/member/jatin_rohilla) as well.
-- I’m currently learning to be mindful. Trying to question some stereotypes.
+- I’m currently learning to be mindful.
 - I occasionally write at [jj-writes.now.sh/](https://jj-writes.now.sh/)
