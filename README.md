@@ -10,5 +10,4 @@
 - To know more about my technical experience, checkout my profile - [jatin69.github.io](https://jatin69.github.io/)
 - Outside of work, i enjoy taking long walks and listening to conversational podcasts. Hopefully, audiobooks will soon follow. 
 - TV? Fringe, Naruto. Youtube? Matt D'Avella FTW.
-- I recently started playing [chess](https://www.chess.com/member/jatin_rohilla). Let's play sometime!
-- I also occasionally write at [jj-writes.now.sh](https://jj-writes.now.sh/) 
+- I recently started playing chess. You can find me on [chess.com](https://www.chess.com/member/jatin_rohilla) and [lichess](https://lichess.org/@/jatin_rohilla) . Let's play sometime!
